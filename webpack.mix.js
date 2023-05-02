@@ -7,4 +7,4 @@ mix
   .js('resources/js/filter.js', 'js')
   .vue({ version: 3 })
   .css('resources/css/filter.css', 'css')
-  .nova('seoegypt/value-filter')
+  .nova('seo/value-filter')

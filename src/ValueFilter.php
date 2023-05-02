@@ -1,6 +1,6 @@
 <?php
 
-namespace Seoegypt\ValueFilter;
+namespace Seo\ValueFilter;
 
 use Laravel\Nova\Filters\Filter;
 use Laravel\Nova\Http\Requests\NovaRequest;

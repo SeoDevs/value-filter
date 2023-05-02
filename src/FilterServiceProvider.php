@@ -1,6 +1,6 @@
 <?php
 
-namespace Seoegypt\ValueFilter;
+namespace Seo\ValueFilter;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Nova\Events\ServingNova;

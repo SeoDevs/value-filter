@@ -1,5 +1,5 @@
 {
-    "name": "seoegypt/value-filter",
+    "name": "seo/value-filter",
     "description": "A Laravel Nova filter.",
     "keywords": [
         "laravel",
@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Seoegypt\\ValueFilter\\": "src/"
+            "Seo\\ValueFilter\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Seoegypt\\ValueFilter\\FilterServiceProvider"
+                "Seo\\ValueFilter\\FilterServiceProvider"
             ]
         }
     },
