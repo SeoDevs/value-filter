@@ -30,7 +30,7 @@ class NameFilter extends ValueFilter{
 ```
 ### Resource properties
 
-- `$type ="text";` - You can optionally override the default type of the ValueFilter package by adding property $type to your Nova filter.
+- `$type ="number";` - You can optionally override the default type of the ValueFilter package by adding property $type to your Nova filter.
 
 ### Field Help Text
 
